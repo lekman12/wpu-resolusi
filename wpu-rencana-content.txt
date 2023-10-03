@@ -1,4 +1,4 @@
-RENCANA KONTEN WPU
+RENCANA BELAJAR Web
 
 - Javascript
   * ES6
